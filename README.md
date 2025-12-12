@@ -1,4 +1,4 @@
-# **Redefining QA Multi-Agent Automation using Autogen (OpenAI + Jira MCP + Playwright MCP)**
+# **Multi-Agent Automation using Autogen (OpenAI + Jira MCP + Playwright MCP)**
 
 This project showcases an advanced **multi-agent AI automation system** that integrates:
 
